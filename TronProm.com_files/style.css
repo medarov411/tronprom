@@ -1,0 +1,20 @@
+#vantaElement {
+   width: 100%;
+   height: 17%;
+   position: absolute;
+   top: 0;
+   right: 0;
+   left: 0;
+   bottom: 0;
+   z-index: -1;
+}
+
+.navigate .nav2 a {
+   color: #fff!important;
+   font-weight: 900;
+}
+
+ .why .block:hover {
+   box-shadow: 0 0 20px #ff3f97!important;
+   transition: 1s;
+}
